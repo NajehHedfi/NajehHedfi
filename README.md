@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hedfi Najeh</h1>
 <h3 align="center">🚀 Full-Stack Engineer & UI/UX Designer | Angular • Spring Boot • Adobe XD | From Tunisia 🇹🇳</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B731&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;UI%2FUX+Designer;Angular+%7C+Spring+Boot+Enthusiast;Turning+Ideas+Into+Beautiful+Products+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
