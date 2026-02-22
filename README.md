@@ -56,18 +56,4 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Najeh23&show_icons=true&theme=radical" alt="stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Najeh23&theme=radical" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najeh23&layout=compact&theme=radical" alt="top-langs"/>
-</p>
-
----
-
-⭐️ From [Najeh23](https://github.com/Najeh23)
